@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelmoreira11/rafaelmoreira11/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Eu sou apaixonado por tecnologia e estou sempre em busca de aprender as diversas áreas que nela existem!
 
 <div  align="center" style="margin-bottom:100px">
